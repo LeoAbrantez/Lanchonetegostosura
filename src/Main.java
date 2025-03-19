@@ -43,4 +43,3 @@ public class Main {
         JOptionPane.showMessageDialog(null,"Será necessário comprar " + queijo + "Kg de queijo, " + presunto + "Kg de presunto e " + carne + "Kg de carne.");
     }
 }
-}
